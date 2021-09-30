@@ -1,4 +1,4 @@
-https://horizon.kias.re.kr/18928/
+[https://horizon.kias.re.kr/18928/](https://horizon.kias.re.kr/18928/)
 ```
 1부터 연속한 자연수를 한 줄로 나열하여, 인접한 두 수의 합이 제곱수가 되게 할 수 있을까?
 예를 들어, 8-1-3-6-10으로 나열하면,
